@@ -62,6 +62,7 @@ tags: Opus
 		- [[DRY code]] , [[coding]]
 	- an exploration of how we can apply that to the act of programming
 		- what is the act of programming?
+	- the capacity to *[[read]]* is predicated on your ability to turn the letters into gestalten: i can transliterate greek but i can't read it.
 - the [[abstraction]] talk
 - Skeleta:
 	- Poetry as raw language work

@@ -2,3 +2,4 @@
 	- https://material.io/resources/color/
 	- https://material-ui.com/customization/color/
 	- https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF
+- [bro what even is colour](https://aeon.co/essays/can-we-hope-to-understand-how-the-greeks-saw-their-world)

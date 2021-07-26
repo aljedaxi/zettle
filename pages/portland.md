@@ -1,5 +1,5 @@
 ---
-title: portland
+tags: place
 ---
 
 - Freeland Spirits Gin

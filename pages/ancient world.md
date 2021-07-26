@@ -1,0 +1,3 @@
+- publications
+	- https://pharos.vassarspaces.net
+	- https://eidolon.pub/our-top-articles-editors-choice-9e33f7640ea0

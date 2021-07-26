@@ -111,9 +111,9 @@ author: Stafford Beer
 	-
 	  > it is not, inside itself, very [[systemic]]. Look at the feeble attempt to emphasize a needed homeostat between Production and Sales!
 	-
-	  > What matters in discriminating one 'state of the system' from other states is whether the resulting **change of state** serves, or has no bearing on, the ** [[purposes]]** of the system
+	  > What matters in discriminating one 'state of the system' from other states is whether the resulting **change of state** serves, or has no bearing on, the ** [[purpose]]** of the system
 	-
-	  > we have not spoken of the system's [[purposes]] before, except in declaring its viability — and therefore the implied purpose TO SURVIVE ... but usually the viable system has a purpose imposed upon it, thus:
+	  > we have not spoken of the system's [[purpose]]s before, except in declaring its viability — and therefore the implied purpose TO SURVIVE ... but usually the viable system has a purpose imposed upon it, thus:
 	  > [diagram VS state 1 creates actions, which morph it into VS state 2; thence comes an imputed purpose, which is fed into a comparator; the comparator also reads the slang declaration of purpose; this comparator is fed into the higher level of recursion, which thence feeds into the purpose declared in slang]
 	  > it is usual for the viable system to have a purpose formulated for it within a higher recursion, ... this purpose must be expressed in the *Language* that the system understands ... a GOOD OBSERVER will **[impute](https://www.merriam-webster.com/dictionary/impute)** the purpose of the system from its actions ... hence ... **The purpose of the system is what it does** ... again ... we are likely to encounter COGNITIVE DISSONANCE ... this is in practice resolved ... in the ... comparator ... [which] continuously compares the declared purpose with the purpose imputed from the results that the system delivers. This results in the *feedback* of an error signal ($\varepsilon$), which will modify the ... statement of purpose ... NOTE: ... feedback generates **corrective action**
 		-
@@ -125,6 +125,7 @@ author: Stafford Beer
 	-
 	  > we cannot tackle everything at once ... [eg] the problems of *measurement* and *filtration* that are dealt with in ... *[[The Brain of the Firm]]* and *[[The Heart of the Enterprise]]*.
 - On the [[[[viable system]] model]]
+  collapsed:: true
 	-
 	  collapsed:: true
 	  > the **set** of these embedments will be known as [[SYSTEM ONE]]
@@ -159,6 +160,7 @@ author: Stafford Beer
 		-
 		  > [[System Three]] ... has the role of observing the One-Two complex from the privileged position of (*intra*systemic) omniscience
 - Stafford Str8 Spitting
+  collapsed:: true
 	-
 	  > This FOREWORD is over --- so: FORWARD ...
 	-

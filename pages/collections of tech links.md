@@ -1,7 +1,3 @@
----
-title: collections of tech links
----
-
 - backlinks:
 	- [[messaging clients]]
 	- [[clojure]]
@@ -48,9 +44,16 @@ title: collections of tech links
 	- [mantine](https://mantine.dev/guides/dark-theme/)
 	- [Elementz](https://elementz.style/#!/Components)
 	- [spinners](https://github.com/mhnpd/react-loader-spinner)
+	- [geist](https://github.com/geist-org/react), made by vercel
+	- [virtualization](https://github.com/wellyshen/react-cool-virtual)
 - [[Logging]]:
 	- IBM likes [pino](https://github.com/pinojs/pino)
 - Conferences:
 	- [vercel's conference framework](https://github.com/vercel/virtual-event-starter-kit)
 - Desktop app frameworks:
 	- https://tauri.studio/en/
+- Tokenizers:
+	- https://www.npmjs.com/package/doken
+	- https://www.npmjs.com/package/@stdlib/nlp-tokenize
+	- https://www.npmjs.com/package/@plkit/noun
+	- http://naturalnode.github.io/natural/Tokenizers.html

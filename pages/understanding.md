@@ -9,3 +9,5 @@ title: understanding
 - one may speak of the ontogeny of understanding in terms of how one understands as
 - child/adult (the genesis of the individual)
 - data/whatever (the genesis of understanding)
+- To understand something you have to know what it means
+  It has to [[mean]] something to you

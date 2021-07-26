@@ -1,0 +1,3 @@
+-
+  > The basic axiom of critical race theory is that [[racism]] is not an irrational deviation from the norm of liberal neutrality – instead, it’s a system of exclusion that operates through those norms. It strikes me that we could avoid a lot of very pointless squabbles if we could just find different words for racism-as-individual-prejudice and racism-as-structural-inequality; clearly, tacking on the modifier ‘systemic’ isn’t doing the job
+  [source](https://samkriss.com/2021/06/25/whats-so-bad-about-critical-race-theory/)

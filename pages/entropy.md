@@ -1,0 +1,3 @@
+-
+  > Connoisseurs use entropy in a technical, microscopic sense, as a statistical measure of the number of different ways the same kind of arrangement of matter can be constructed out of its constituent parts. For a room full of air, for example, it turns out there are just many, many more ways of spreading out the molecules uniformly than there are of squishing them into clumps. That’s why uniform air density wins the entropic game, and nature abhors a vacuum. The particles diffuse themselves evenly because that’s just the most likely thing to happen over time.
+  [source](https://aeon.co/essays/does-the-flow-of-heat-help-us-understand-the-origin-of-life)

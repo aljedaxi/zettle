@@ -1,0 +1,1 @@
+- definitions must be understood under their particular defining framework: you'll never get anywhere in a conversation with a prescriptivist

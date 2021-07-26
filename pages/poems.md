@@ -577,6 +577,22 @@
   warm in my embrace
   till we both turn to ash
   in the sun's icy case
+- had a bowl been,
+  and a duck been,
+  seen, green, by the other; 
+  
+  and the green ground,
+  of the surface found,
+  drowned;bound,in peas & plunder, 
+  
+  then could the duck,
+  be faster? never,
+  rucks of ducks in trucks of mucks
+  could never keep this clever duck
+- SNIP SNIP:
+	- But this is the dense ice cube to my old fashined:
+	  i feel the image of i unfolds
+	  most beautifully around it
 - I HATE POETRY:
 	-
 	  ```

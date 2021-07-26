@@ -1,0 +1,3 @@
+- i don't like [[amazon]] land. i don't like amazon.
+- you can use this on [lambda](https://github.com/serverless-nextjs/serverless-next.js)
+-
