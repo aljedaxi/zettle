@@ -1,0 +1,1 @@
+- [[COVID]] risk can be roughly calculated [as such](https://www.microcovid.org/)

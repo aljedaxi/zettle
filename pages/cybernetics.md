@@ -11,6 +11,7 @@ title: cybernetics
 - TODO what is a field? a domain? a science? 
   todo:: 1616088574589
   and how is cybernetics between them?
+- [what is cybernetics](https://www.youtube.com/watch?v=JJ6orMfmorg)
 - TODO they talked of tension on the cable of a stake
   todo:: 1618340658274
 	- [[anti-[[oscillation]]]]?

@@ -1,5 +1,7 @@
----
-title: complicated
----
-
-- over-complication is the over-introduction of expertise into a system considered simple
+- ((6116eb24-1f82-4032-bd7e-e3741e757f9c))
+	- recursion reveals the nature of (recurrence of) form: the same thing, the same self, regardless of the varying input fed into it (by itself)
+		- the form of computation recurs over stack frames
+	- recursion as reöccurance within certain delineations
+	- [[viability]] is reöccurance of identity over space-time, as is a recursive function
+		- Escher-esque recursion occurs over scale
+- [[over-complication]] is the over-introduction of expertise into a system considered [[simple]]

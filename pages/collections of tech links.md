@@ -32,6 +32,7 @@
 	- https://github.com/chartjs/Chart.js
 	- https://reactflow.dev/
 	- https://github.com/vasturiano/react-force-graph
+	- [visx](https://airbnb.io/visx)
 - internationalization:
 	- https://formatjs.io/
 - git:
@@ -50,6 +51,8 @@
 	- IBM likes [pino](https://github.com/pinojs/pino)
 - Conferences:
 	- [vercel's conference framework](https://github.com/vercel/virtual-event-starter-kit)
+- Full Stack frameworks:
+	- [wasp](https://wasp-lang.dev/) is a weird language for describing the layout of the whole app
 - Desktop app frameworks:
 	- https://tauri.studio/en/
 - Tokenizers:

@@ -1,0 +1,2 @@
+- [talk](https://www.youtube.com/watch?v=Dqqy_LJYKQU&feature=youtu.be)
+- [book](https://pageskensington.com/item/ZnpeBuZxtyO6we2VwM0sxg)
