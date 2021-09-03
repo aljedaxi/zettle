@@ -9,7 +9,7 @@
   > VUCA ... arise  from  dynamic  interdependencies,  within  and  between  systems,  and  the existence  of  multiple  stakeholders  with  differing  perspectives
 	- [[GAPPS]]:
 	-
-	  > its underlying world-view as being that 'complexity is the issue  and  systems  thinking  the  way  forward'
+	  > its underlying world-view as being that '[[complex]]ity is the issue  and  systems  thinking  the  way  forward'
 	-
 	  > At  the  heart  of  the framework  are  5  'Units  of  Competency'  in  the  workplace, incorporating   22   elements   of   competency   and   81   criteria   of   threshold performance.  
 	  > - 'Think  Holistically',  is  about  applying  appropriate systems  approaches  in  the  face  of  dynamic  interrelationships  and  multiple perspectives,  and  emerging  threats  and  opportunities.  

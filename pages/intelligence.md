@@ -1,0 +1,1 @@
+- The words [[thinker]], [[creator]], [[content]], represent a totalizing conception of intelligence; these recapitulate the totalizing logic of capital

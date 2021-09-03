@@ -1,0 +1,2 @@
+- line length limits are actually pretty swaggy:
+  the intersection of indentation & character length means that you can have longer expressions at lower levels of indentation (high internal, low external variety), while at high levels of indentation (ie, high levels of environmental variety), you can have much. kinda swanky.

@@ -1,0 +1,2 @@
+-
+  > You could also consider writing down your worries ... perhaps also at planned times. You'll often find that the problem in your head is much smaller (and less severe) once you see it in black-and-white

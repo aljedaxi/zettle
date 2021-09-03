@@ -1,0 +1,1 @@
+- to [[vacation]] is to vacate one world and take up another

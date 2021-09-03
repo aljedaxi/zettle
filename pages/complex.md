@@ -2,7 +2,7 @@
 title: complex
 ---
 
-- Complexity Vs Complication in anthropology
+- [[Complex]]ity Vs Complication in anthropology
 	-
 	  > baboons live in COMPLEX societies and have complex sociality. When they construct and repair their social order, they do so only with limited resources, their bodies, their social skills and whatever social strategies they can construct. A baboon is, in our view, the ideal COMPETENT MEMBER portrayed by ethnomethodologists, a social actor having difficulty negotiating one factor at a time, constantly subject to the interference of others with similar problems. These limited resources make possible only limited social stability.
 	-

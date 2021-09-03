@@ -11,6 +11,7 @@
 - use them for [[software ideas]]
 - [[vim]]
 	- https://andrew.stwrt.ca/posts/vim-ctags
+	- [how to learn vimscript](https://w0rp.com/blog/post/vim-script-for-the-javascripter/)
 - how to bill https://raccoon.onyxbits.de/blog/software-development-cost/
 - use them with https://allcontributors.org/
 - document them with

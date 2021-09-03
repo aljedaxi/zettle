@@ -1,0 +1,2 @@
+- fediverse:
+	- https://github.com/misskey-dev/misskey
