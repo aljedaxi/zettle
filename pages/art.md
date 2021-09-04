@@ -1,4 +1,4 @@
 - TODO linguistic analysis of "art" via words such as "artistic", "artisan",
 - The *work of art* is a fundamentally [[apollonian]] concept/mode of instantiating the artistic; aesthetic appreciation of coffee, public art, [&c.] moves the art into the present[at hand][ense of being]
 	- art (most especially music) acts as a powerful force for socially syncing modalities of being
-		- likewise, headphones
+		- inversely, headphones sever the individual from their surroundings
