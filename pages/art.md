@@ -1,2 +1,2 @@
 - TODO linguistic analysis of "art" via words such as "artistic", "artisan",
-- The *work of art* is a fundamentally [[apollonian]] concept/mode of instantiating the artistic;
+- The *work of art* is a fundamentally [[apollonian]] concept/mode of instantiating the artistic; aesthetic appreciation of coffee, public art, [&c.] presents
