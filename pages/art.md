@@ -1,2 +1,2 @@
 - TODO linguistic analysis of "art" via words such as "artistic", "artisan",
-- The work of art
+- The *work of art* is a fundamentally [[apollonian]] concept/coneptualization of the artistic
