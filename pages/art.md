@@ -1,0 +1,2 @@
+- TODO linguistic analysis of "art" via words such as "artistic", "artisan",
+- The work of art
