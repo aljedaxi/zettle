@@ -25,12 +25,14 @@
   In the morning add additional almond milk to give it more of a cereal consistency or eat as is.
 - Recipes:
 	- Japanese:
+	  collapsed:: true
 		- https://www.justonecookbook.com/takikomi-gohan
 		- Abura age:
 			- https://www.justonecookbook.com/inari-age
 			- https://www.justonecookbook.com/inarizushi
 			- https://www.justonecookbook.com/kitsune-udon
 	- African:
+	  collapsed:: true
 		- https://foodaciously.com/recipe/nigerian-chin-chin
 		- https://cuisinicity.com/moroccan-tagine-vegan/
 		- https://recipesfromapantry.com/overnight-mango-coconut-oats-vegan-west-african-flavours/
@@ -61,5 +63,7 @@
 		- https://www.theendlessmeal.com/one-pot-vegan-pasta
 		- https://sunkissedkitchen.com/mediterranean-one-pot-pasta/
 		- https://cookieandkate.com/roasted-mushrooms-with-herbed-quinoa/#tasty-recipes-24240-jump-target
+	- White:
+		- https://simple-veganista.com/curried-chickpea-salad
 - collections:
 	- https://www.emilieeats.com/recipe-index/?meal-type=338
