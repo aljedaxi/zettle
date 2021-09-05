@@ -16,3 +16,5 @@ links:: [Local library](zotero://select/library/items/ARFCIAGG), [Web library](h
 	- "Examines how radical bookstores and similar spaces serve as launching pads for social movements"--
 -
   > I developed the term "[[print-based movement space]]" as an umbrella term to define activist enterprises combining these three elements: place, text and activism.
+	-
+	  > my analysis ... focuses primarily on space ...
