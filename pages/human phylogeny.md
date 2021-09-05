@@ -11,3 +11,5 @@
   > Moreover, forager camps are difficult and unrewarding targets. Outsiders will rarely know their exact locations because, if violence is such a threat, there would be little or no friendly travel between tribes, and so neighbouring groups won’t know much of one another’s territories. Foragers have few material possessions, are armed by default, and are expert at tracking and reading their country, making them hard to surprise in their camp sites. Finally, foragers’ emphasis on autonomy and consensus in decision-making is hardly an ideological signature of a militarised world
   
   > It’s no coincidence that we tend to see (for example) shifts in marriage norms, so that would-be husbands have to pay a bride price in pigs or other prestige resources. For poorer men, marriage will thus bind them in obligations of debt to their wealthier sponsors
+  
+  [ [source](https://aeon.co/essays/for-97-of-human-history-equality-was-the-norm-what-happened) ]
