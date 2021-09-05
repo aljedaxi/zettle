@@ -1,0 +1,3 @@
+-
+  > They sometimes have elders or initiates, but they have no chiefs. No-one has command authority over other adult males. Relations between the sexes vary but, in many forager cultures, women are indispensable, skilled, autonomous and essential props of the foraging economy. They gather plant foods and small game, and make much of the equipment of everyday life. They often have a good deal of social and sexual choice.
+  >
