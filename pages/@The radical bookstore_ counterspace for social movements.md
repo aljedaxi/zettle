@@ -15,3 +15,4 @@ links:: [Local library](zotero://select/library/items/ARFCIAGG), [Web library](h
 - [[Abstract]]
 	- "Examines how radical bookstores and similar spaces serve as launching pads for social movements"--
 -
+  > I developed the term "[[print-based movement space]]" as an um
