@@ -79,4 +79,5 @@
  ;; Rose is red, violet's blue. Life's ordered: Org assists you.
  :macros {}
  :ui/show-brackets? true
- :markdown/version 2}
+ :markdown/version 2
+ :zotero/settings-v2 {"default" {:type-id "7525236", :attachments-block-text "[[Attachments]]", :zotero-linked-attachment-base-directory ""}}}
