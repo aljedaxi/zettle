@@ -17,4 +17,4 @@ links:: [Local library](zotero://select/library/items/ARFCIAGG), [Web library](h
 -
   > I developed the term "[[print-based movement space]]" as an umbrella term to define activist enterprises combining these three elements: place, text and activism.
 	-
-	  > my analysis ... focuses primarily on space ...
+	  > my analysis focuses primarily on space ... for text, Kristin Hogan's *Feminist Bookstore Movement* and Nicholas Thoburn's *Anti-book*
