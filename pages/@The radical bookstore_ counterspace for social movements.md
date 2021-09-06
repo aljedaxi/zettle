@@ -16,6 +16,8 @@ links:: [Local library](zotero://select/library/items/ARFCIAGG), [Web library](h
 	- "Examines how radical bookstores and similar spaces serve as launching pads for social movements"--
 - [[Definitions]]
 	- A [[counterspace]] is
+	- A [[counterpublic]] is
+	  > a diverse public realm where different social groups do not nevessarily try to speak as one. Instaed, counterpublics are "parallel
 -
   > After the film screening, chairs are cleared away to make room for a party; the morning after the party, the space is cleaned up to hold a discussion or writing workshop, which in turn makes way for a baking session.
   pp 6
