@@ -1,8 +1,1 @@
----
-title: networking
----
-
-- TODO https://otherinter.net/#engagements
-:PROPERTIES:
-:todo: 1618364598073
-:END:
+- TODO [Other Internet is a decentralized applied research organization. We study and build social technology.](https://otherinter.net/#engagements)
