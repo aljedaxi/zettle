@@ -80,4 +80,5 @@
  :macros {}
  :ui/show-brackets? true
  :markdown/version 2
- :zotero/settings-v2 {"default" {:type-id "7525236", :attachments-block-text "[[Attachments]]", :zotero-linked-attachment-base-directory "", :overwrite-mode? false, :include-notes? false, :include-attachments? false, :prefer-citekey? true}}}
+ :zotero/settings-v2 {"default" {:type-id "7525236", :attachments-block-text "[[Attachments]]", :zotero-linked-attachment-base-directory "", :overwrite-mode? false, :include-notes? false, :include-attachments? false, :prefer-citekey? true}}
+ :graph/settings {:orphan-pages? true, :journal? false, :builtin-pages? false}}
