@@ -8,3 +8,5 @@ tags: location
 	- https://longtabledistillery.com
 	- https://www.thelibertydistillery.com
 	- https://www.themodernbartender.com
+- Eman:
+	- Apollonian
