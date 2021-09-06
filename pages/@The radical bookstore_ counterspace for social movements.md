@@ -17,7 +17,7 @@ links:: [Local library](zotero://select/library/items/ARFCIAGG), [Web library](h
 - [[Definitions]]
 	- A [[counterspace]] is
 	- A [[counterpublic]] is
-	  > a diverse public realm where different social groups do not nevessarily try to speak as one. Instaed, counterpublics are "parallel
+	  > a diverse public realm where different social groups do not necessarily try to speak as one. Instead, counterpublics are "parallel discursive arenas where members of subordinated social groups invent and circulate counter discourses to formulate oppositional interpretations of their itentites, interests and needs."
 -
   > After the film screening, chairs are cleared away to make room for a party; the morning after the party, the space is cleaned up to hold a discussion or writing workshop, which in turn makes way for a baking session.
   pp 6
