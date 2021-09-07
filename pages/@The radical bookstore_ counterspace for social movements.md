@@ -20,7 +20,7 @@ links:: [Local library](zotero://select/library/items/ARFCIAGG), [Web library](h
 	  or
 	  > "spaces of restistance to the dominatnt order arising precisely from their subordinate, peripheral, or marginalized positioning."
 	  or 
-	  > the spatial infrastructure activists constrctuct for themselves to accommodate contenious poliicatl tpractices operating in par
+	  > the spatial infrastructure activists construct for themselves to accommodate contentious political practices operating in parallel with established norms and pushing toward alternative futures.
 	- A [[counterpublic]] is
 	  > a diverse public realm where different social groups do not necessarily try to speak as one. Instead, counterpublics are "parallel discursive arenas where members of subordinated social groups invent and circulate counter discourses to formulate oppositional interpretations of their itentites, interests and needs."
 	- A [[counterconduct]] is
