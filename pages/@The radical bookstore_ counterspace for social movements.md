@@ -18,7 +18,9 @@ links:: [Local library](zotero://select/library/items/ARFCIAGG), [Web library](h
 	- A [[counterspace]] is
 	  > "an initially utopian alternative to actually existing 'real' space," which people insert into the landscape "in opposition to het one embodied in the strategies of power." 
 	  or
-	  > "spaces of restistance
+	  > "spaces of restistance to the dominatnt order arising precisely from their subordinate, peripheral, or marginalized positioning."
+	  or 
+	  > the spatial infrastructure activists constrctuct for themselves to accommodate contenious poliicatl tpractices operating in par
 	- A [[counterpublic]] is
 	  > a diverse public realm where different social groups do not necessarily try to speak as one. Instead, counterpublics are "parallel discursive arenas where members of subordinated social groups invent and circulate counter discourses to formulate oppositional interpretations of their itentites, interests and needs."
 	- A [[counterconduct]] is
