@@ -16,7 +16,9 @@ links:: [Local library](zotero://select/library/items/ARFCIAGG), [Web library](h
 	- "Examines how radical bookstores and similar spaces serve as launching pads for social movements"--
 - [[Definitions]]
 	- A [[counterspace]] is
-	  > "an initially utopian alternative to
+	  > "an initially utopian alternative to actually existing 'real' space," which people insert into the landscape "in opposition to het one embodied in the strategies of power." 
+	  or
+	  > "spaces of restistance
 	- A [[counterpublic]] is
 	  > a diverse public realm where different social groups do not necessarily try to speak as one. Instead, counterpublics are "parallel discursive arenas where members of subordinated social groups invent and circulate counter discourses to formulate oppositional interpretations of their itentites, interests and needs."
 	- A [[counterconduct]] is
