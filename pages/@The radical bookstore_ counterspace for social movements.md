@@ -14,6 +14,8 @@ links:: [Local library](zotero://select/library/items/ARFCIAGG), [Web library](h
 
 - [[Abstract]]
 	- "Examines how radical bookstores and similar spaces serve as launching pads for social movements"--
+- Links:
+	-
 - [[Definitions]]
 	- A [[counterspace]] is
 	  > "an initially utopian alternative to actually existing 'real' space," which people insert into the landscape "in opposition to het one embodied in the strategies of power." 
