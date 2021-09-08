@@ -16,7 +16,7 @@ links:: [Local library](zotero://select/library/items/ARFCIAGG), [Web library](h
 	- "Examines how radical bookstores and similar spaces serve as launching pads for social movements"--
 - Links:
 	- [Drawing on his extensive work examining the ‘assemblages’ of nature, Latour finds it necessary to scrutinize thoroughly the exact content of what is assembled under the umbrella of Society](https://www.uoc.edu/uocpapers/dt/eng/latour.html)
-	-
+	- [Vibrant Matter: a political ecology of things](https://www.dukeupress.edu/Vibrant-Matter/)
 - [[Definitions]]
 	- A [[counterspace]] is
 	  > "an initially utopian alternative to actually existing 'real' space," which people insert into the landscape "in opposition to het one embodied in the strategies of power." 
