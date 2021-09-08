@@ -22,3 +22,5 @@ links:: [Local library](zotero://select/library/items/IV6JBBTS), [Web library](h
   > - everyone agrees certain actions would be best
   > - not everyone is coordinated in taking those actions
 	- you can see how that defines the metasystem
+-
+  > natural systems are quite simple ... most natural systems are asynchronous ... usually there's little to no stored memory ... it only needs to know "is it above or below this thresh
