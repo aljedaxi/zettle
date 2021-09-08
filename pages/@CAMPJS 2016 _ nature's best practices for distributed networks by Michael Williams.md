@@ -18,4 +18,7 @@ links:: [Local library](zotero://select/library/items/IV6JBBTS), [Web library](h
   > - messages: what you say
   > - signalling: how you connect
 -
-  > SY
+  > Systems are about coordinating ... a coordination problem is where:
+  > - everyone agrees certain actions would be best
+  > - not everyone is coordinated in taking those actions
+	- you can see how that defines the metasystem
