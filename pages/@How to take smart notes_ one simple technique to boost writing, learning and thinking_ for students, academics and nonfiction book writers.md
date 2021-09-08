@@ -12,7 +12,7 @@ library-catalog:: Gemeinsamer Bibliotheksverbund ISBN
 links:: [Local library](zotero://select/library/items/XM5J5PK6), [Web library](https://www.zotero.org/users/7525236/items/XM5J5PK6)
 num-pages:: 170
 
-- systems can only act upon an interface. your interfaces must be designed to expose the aspects of the system that [should change?]
+- systems can only act upon an [[interface]]. your interfaces must be designed to expose the aspects of the system that [should change?]
 - what is it to think?
 - what is the form of the idea?
 - what is the academic mode? a questioning / questing towards \?truth? interesting questions? if so---or if anything like it is so---such a mode must be spread throughout society. every question ever asked may and should be treated with dignity.
