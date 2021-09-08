@@ -15,6 +15,7 @@ links:: [Local library](zotero://select/library/items/ARFCIAGG), [Web library](h
 - [[Abstract]]
 	- "Examines how radical bookstores and similar spaces serve as launching pads for social movements"--
 - Links:
+	- [Drawing on his extensive work examining the ‘assemblages’ of nature, Latour finds it necessary to scrutinize thoroughly the exact content of what is assembled under the umbrella of Society](https://www.uoc.edu/uocpapers/dt/eng/latour.html)
 	-
 - [[Definitions]]
 	- A [[counterspace]] is
