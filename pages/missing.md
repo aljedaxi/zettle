@@ -1,0 +1,1 @@
+- to miss an individual seems to be centered around sort of synthetic memories, understandings of existence with them
