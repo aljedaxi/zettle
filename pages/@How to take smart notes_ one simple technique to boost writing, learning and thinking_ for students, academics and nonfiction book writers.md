@@ -15,7 +15,7 @@ num-pages:: 170
 - systems can only act upon an [[interface]]. your interfaces must be designed to expose the aspects of the system that [should change?]
 - TODO what is it to think?
 	- an idea is a picture of an aesthetic.
-		- ie --- an idea?? [[@CAMPJS 2016 | nature's best practices for distributed networks by Michael Williams]]
+		- ie --- an idea??
 		- a note is a picture of an idea?
 		- a note is an idea?
 - TODO what is the academic mode? a questioning / questing towards \?truth? interesting questions? if so---or if anything like it is so---such a mode must be spread throughout society. every question ever asked may and should be treated with dignity.
