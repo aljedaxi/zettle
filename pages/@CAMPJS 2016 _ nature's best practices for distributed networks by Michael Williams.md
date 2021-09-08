@@ -23,4 +23,7 @@ links:: [Local library](zotero://select/library/items/IV6JBBTS), [Web library](h
   > - not everyone is coordinated in taking those actions
 	- you can see how that defines the metasystem
 -
-  > natural systems are quite simple ... most natural systems are asynchronous ... usually there's little to no stored memory ... it only needs to know "is it above or below this threshold" ... they're randomized ... unpredictable ... our systems, if u run it again, it'll run in the same way ... your brain is not deterministic, it's probabilistic ...
+  > natural systems are quite simple ... most natural systems are asynchronous ... usually there's little to no stored memory ... it only needs to know "is it above or below this threshold"
+  >  ... they're randomized ... unpredictable ... our systems, if u run it again, it'll run in the same way ... your brain is not deterministic, it's probabilistic 
+  > ... nature instead has a small world topology ... you're only a few hops away from everyone ... 
+  > ... densely connected networks, you're
