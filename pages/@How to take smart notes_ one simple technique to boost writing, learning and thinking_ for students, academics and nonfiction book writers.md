@@ -40,7 +40,4 @@ num-pages:: 170
 	  learning involves systems of recollection
 	- a Zettelkasten is a picture of a recollective system
 	  a model of "that which is remembered, and how"
-- "too much [[order]] can impede learning" [p99] -> ie, too harshly governing constraints. Sense is made through the movement of propositions into [[order]], the construction of clarity.
-- the process
-- forEach idea you've noted, explain it well enough that anyone can read it. full sentences, references.
-- add that note to the slipbox. link it to related notes, your index, and notes that describe subjects.
+- "too much [[order]] can impede learning" [p99] -> ie, too harshly [[governing constraints]] . Sense is made through the movement of propositions into [[order]], the construction of clarity.
