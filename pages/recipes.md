@@ -25,7 +25,6 @@
   In the morning add additional almond milk to give it more of a cereal consistency or eat as is.
 - Recipes:
 	- Japanese:
-	  collapsed:: true
 		- https://www.justonecookbook.com/takikomi-gohan
 		- Abura age:
 			- https://www.justonecookbook.com/inari-age
