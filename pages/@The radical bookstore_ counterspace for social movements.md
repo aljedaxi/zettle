@@ -38,4 +38,4 @@ links:: [Local library](zotero://select/library/items/ARFCIAGG), [Web library](h
 - TODO every [[counterspace]] should have an ad-blocker & some sort of anonimizer in front of their router
 - TODO try to get every cafe in the city to offer the non-fat americano
 - TODO bookstores:
-	-
+	- https://neurodivergentrebel.com/2021/08/17/neurodivergent-rebels-2021-neurodiversity-book-list/
