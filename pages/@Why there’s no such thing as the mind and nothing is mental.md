@@ -13,3 +13,4 @@ links:: [Local library](zotero://select/library/items/AYDLBWQ3), [Web library](h
 -
   > homeostasis (maintaining stable internal parameters in the body such as heart-rate and blood temperature) and allostasis (adjusting those parameters and behaviour depending on the context).
 -
+  > It’s much better, instead, to talk of psychology as the study of the psychological, and cognitive science as the study of the cognitive. This might seem circular, but it only reflects the fact these disciplines are in charge of discovering their domains, and that we simply don’t know enough yet to say exactly what those domains should be in totally independent terms. No-one has any trouble describing physics as studying the physical, and the idea that it’s the study of fundamental laws of motion and contact has long since been abandoned.
