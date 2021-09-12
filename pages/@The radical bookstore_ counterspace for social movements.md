@@ -37,3 +37,5 @@ links:: [Local library](zotero://select/library/items/ARFCIAGG), [Web library](h
 	  > my analysis focuses primarily on space ... for text, Kristin Hogan's *Feminist Bookstore Movement* and Nicholas Thoburn's *Anti-book* analyze print objects as tools for organizing ... For activism, Doug McAdam's et al's *Dynamics of Contention* and Charles Tilly's *Contentious Performances* analyze the [[performative]] aspects of social movements repertoires.
 - TODO every [[counterspace]] should have an ad-blocker & some sort of anonimizer in front of their router
 - TODO try to get every cafe in the city to offer the non-fat americano
+- TODO bookstores:
+	-
