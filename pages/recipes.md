@@ -25,6 +25,7 @@
   In the morning add additional almond milk to give it more of a cereal consistency or eat as is.
 - Recipes:
 	- Japanese:
+	  collapsed:: true
 		- https://www.justonecookbook.com/takikomi-gohan
 		- Abura age:
 			- https://www.justonecookbook.com/inari-age
@@ -64,5 +65,9 @@
 		- https://cookieandkate.com/roasted-mushrooms-with-herbed-quinoa/#tasty-recipes-24240-jump-target
 	- White:
 		- https://simple-veganista.com/curried-chickpea-salad
+		- https://simple-veganista.com/garlicky-mushroom-kale-linguine/#tasty-recipes-8495-jump-target
+		- https://simple-veganista.com/creamy-vegan-mushroom-stroganoff
+		- https://veganhuggs.com/vegan-carbonara/#recipeingredient
+		-
 - collections:
 	- https://www.emilieeats.com/recipe-index/?meal-type=338
