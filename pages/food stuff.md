@@ -1,5 +1,11 @@
-- Onions should be stored in the dark
-- Potatoes sprout faster if they are stored near onions.
-- In any case, keep your tomatoes on the countertop, out of direct sunlight
-- With asparagus, remove the rubber bands, trim an inch off the bottoms and stand them up in a glass jar. Don't crowd them, though. You might have to split a bunch across two jars. Fill halfway with water, then cover the stalks with a plastic produce bag and secure with a rubber band. Asparagus will stay fresh this way for at least a week.
-- You can use this technique with green onions as well, only don't trim the bottoms. If you're really lucky, those tiny white roots at the bottoms will begin to grow and you can plant the stalks in your garden where they'll provide free green onions for up to two years. Once they're planted, just snip off however much of the green shoots you want. (You won't get to use the white parts at the ends without digging them up.)
+- Storage
+	- Onions should be stored in the dark
+	- Potatoes sprout faster if they are stored near onions.
+	- In any case, keep your tomatoes on the countertop, out of direct sunlight
+	- With asparagus, remove the rubber bands, trim an inch off the bottoms and stand them up in a glass jar. Don't crowd them, though. You might have to split a bunch across two jars. Fill halfway with water, then cover the stalks with a plastic produce bag and secure with a rubber band. Asparagus will stay fresh this way for at least a week.
+	- You can use this technique with green onions as well, only don't trim the bottoms. If you're really lucky, those tiny white roots at the bottoms will begin to grow and you can plant the stalks in your garden where they'll provide free green onions for up to two years. Once they're planted, just snip off however much of the green shoots you want. (You won't get to use the white parts at the ends without digging them up.)
+	- Keep your ketchup in the cupboard, not the fridge
+	- Keep your syrup in the cupboard, not the fridge
+	- The high humidity is great for leafy greens like lettuce and fresh herbs, along with and other veggies that are prone to wilting, like cauliflower, cabbage, broccoli, eggplant, cucumbers, and so on. In other words, practically every fresh vegetable.
+	- And guess what goes in the low humidity drawer? Practically nothing!
+- Generally speaking, the longer and thinner the pasta, the better it pairs with smooth, delicate sauces. Take spaghetti in white clam sauce, which has a near broth-like consistency. Stouter pastas, like rigatoni and fusilli, are better suited for thicker sauces. This is because their structure lends itself to both holding up against and holding on to the sauce. Lastly, the smallest pasta shapes, like orzo and ditalini, are best added to soups.
