@@ -1,0 +1,5 @@
+- Onions should be stored in the dark
+- Potatoes sprout faster if they are stored near onions.
+- In any case, keep your tomatoes on the countertop, out of direct sunlight
+- With asparagus, remove the rubber bands, trim an inch off the bottoms and stand them up in a glass jar. Don't crowd them, though. You might have to split a bunch across two jars. Fill halfway with water, then cover the stalks with a plastic produce bag and secure with a rubber band. Asparagus will stay fresh this way for at least a week.
+- You can use this technique with green onions as well, only don't trim the bottoms. If you're really lucky, those tiny white roots at the bottoms will begin to grow and you can plant the stalks in your garden where they'll provide free green onions for up to two years. Once they're planted, just snip off however much of the green shoots you want. (You won't get to use the white parts at the ends without digging them up.)
