@@ -13,3 +13,6 @@ authors:: [[Martin Heidegger]], [[John Macquarrie]], [[Edward S. Robinson]]
 library-catalog:: Library of Congress ISBN
 links:: [Local library](zotero://select/library/items/ZS29GIHV), [Web library](https://www.zotero.org/users/7525236/items/ZS29GIHV)
 num-pages:: 589
+
+-
+  > ... Of inquiring into the history of that inquiry [into Being] itself, that is, of becoming historiological
