@@ -68,6 +68,5 @@
 		- https://simple-veganista.com/garlicky-mushroom-kale-linguine/#tasty-recipes-8495-jump-target
 		- https://simple-veganista.com/creamy-vegan-mushroom-stroganoff
 		- https://veganhuggs.com/vegan-carbonara/#recipeingredient
-		-
 - collections:
 	- https://www.emilieeats.com/recipe-index/?meal-type=338
