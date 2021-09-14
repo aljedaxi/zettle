@@ -15,6 +15,7 @@
 - Performance:
 	- [That React Component Right Under Your Context Provider Should Probably Use `React.memo`](https://twitter.com/sophiebits/status/1228942768543686656?s=20)
 	- [guide to rendering](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/#standard-render-behavior)
+	- [guide to devtools](https://react-devtools-tutorial.vercel.app)
 	- Similarly, note that rendering 
 	  ```
 	  _ => {
