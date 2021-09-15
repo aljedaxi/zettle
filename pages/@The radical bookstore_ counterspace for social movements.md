@@ -39,3 +39,4 @@ links:: [Local library](zotero://select/library/items/ARFCIAGG), [Web library](h
 - TODO try to get every cafe in the city to offer the non-fat americano
 - TODO bookstores:
 	- https://neurodivergentrebel.com/2021/08/17/neurodivergent-rebels-2021-neurodiversity-book-list/
+- TODO every dollar spent on a gofund me could be spent on creating long lasting counterspaces
