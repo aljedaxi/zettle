@@ -616,7 +616,14 @@
   orange
        a group of boys
        is singing:karma police, held aloft,
-       on the stairs. the air is light 
+       on the stairs. the air is light & open,
+       free. the leaves are ripe --- verdent
+       vermillion --- with orange.
+  
+  how
+       decadent. 
+       calgary's a cunning cat to've caught
+       this tongue tangled ; tel, 
   ```
 - I HATE POETRY:
 	-
