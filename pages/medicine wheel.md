@@ -3,3 +3,4 @@
 - BLOOM & PRUNE BB
   ======> BLOOM ============> PRUNE =======
   => SUMMER => AUTUMN => WINTER => SPRING =
+  ======> HIGH! ============> LOW!! ======= ([[network variety]])
