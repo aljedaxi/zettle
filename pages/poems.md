@@ -608,7 +608,13 @@
        glass was stone & stone was grass
      , wood, water;
        grey grows green on gaud\'is grave,
-       awa
+       granite gives ----:----:----:----:-
+       away, walls wring by weaving, winding,
+       crushing curious feet
+       the tepid tact of tunnels turns
+  
+  orange
+       a group of boys
   ```
 - I HATE POETRY:
 	-
