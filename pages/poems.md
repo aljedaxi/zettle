@@ -594,6 +594,13 @@
 	  So sang the sight
 	  of the blue eyed beast.
 -
+  ```
+  what
+       orb of orange adorns
+     - ajar - alight - among
+       a grove ; green, gilt growing
+  
+  ```
 - I HATE POETRY:
 	-
 	  ```
