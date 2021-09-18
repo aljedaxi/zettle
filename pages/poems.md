@@ -623,7 +623,10 @@
   how
        decadent. 
        calgary's a cunning cat to've caught
-       this tongue tangled ; tel, 
+       this tongue tangled ; tell, tease
+       these paints apart for me
+       all is gilt, is glimmer & glass & in
+       out of my depth.
   ```
 - I HATE POETRY:
 	-
