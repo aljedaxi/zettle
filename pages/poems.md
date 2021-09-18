@@ -599,7 +599,9 @@
        orb of orange adorns
      - ajar - alight - among
        a grove ; green, gilt growing
-  
+       beyond all chasm ;
+       beyond all guess , caught
+       kinning with the chandoleir 
   ```
 - I HATE POETRY:
 	-
