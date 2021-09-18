@@ -1,0 +1,1 @@
+- over the course of a [[tasting]] --- & over the course of learning how to taste --- flavour revelation is shown to be a function of techne
