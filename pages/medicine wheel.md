@@ -2,7 +2,6 @@
 	- whig history promises eternal summer.
 - [31. Simplicity does not precede complexity, but follows it.](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
 - BLOOM & PRUNE BB
-  collapsed:: true
   id:: 61466aff-163f-4035-80fd-b4a982063805
   ```
   ======> BLOOM ============> PRUNE =======
@@ -10,4 +9,3 @@
   ======> HIGH! ============> LOW!! ======= ([[network variety]])
   ```
   [[network variety]]
--

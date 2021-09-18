@@ -1,2 +1,2 @@
 - ((61466aff-163f-4035-80fd-b4a982063805))
-	- TODO explicate what i mean by network variety in this case ; it's like, the amount of variety that you can hand out to the machinations of the system at large
+	- TODO explicate what i mean by network variety in this case ; it's like, the amount of variety that you [can/do] hand out to the machinations of the system at large
