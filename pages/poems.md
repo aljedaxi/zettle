@@ -601,7 +601,14 @@
        a grove ; green, gilt growing
        beyond all chasm ;
        beyond all guess , caught
-       kinning with the chandoleir 
+       kinning with the chandoleir, all
+       caught up, kinning orange.
+  
+  once
+       glass was stone & stone was grass
+     , wood, water;
+       grey grows green on gaud\'is grave,
+       awa
   ```
 - I HATE POETRY:
 	-
