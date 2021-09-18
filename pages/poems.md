@@ -567,12 +567,8 @@
   How does she keep her hooves? 
   What terrain does she lead through thee? 
   And does the passages soothe?
-- the hands of the land stretch out further than can
-  : for the can of our kin matters not,
-- Hwaet! From the heights 
-  of the [pink petalled peaks]
-  So sang the sight
-  of the blue eyed beast.
+-
+-
 - i would die to keep you
   warm in my embrace
   till we both turn to ash
@@ -593,6 +589,14 @@
 	- But this is the dense ice cube to my old fashined:
 	  i feel the image of i unfolds
 	  most beautifully around it
+	-
+	  the hands of the land stretch out further than can
+	  : for the can of our kin matters not,
+	- Hwaet! From the heights 
+	  of the [pink petalled peaks]
+	  So sang the sight
+	  of the blue eyed beast.
+-
 - I HATE POETRY:
 	-
 	  ```
